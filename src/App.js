@@ -34,7 +34,7 @@ function App() {
     // need add regular classes AS WELL AS  "dark mode" classes
     //     eg text-black
     //        dark:text-white
-    <div className="flex bg-white dark:bg-black text-black dark:text-white">
+    <div className=" bg-white dark:bg-black text-black dark:text-white">
       Dark theme example by 'class' vs 'media' (ie based on os theme pref)
       <br /> <br />
       <div>
